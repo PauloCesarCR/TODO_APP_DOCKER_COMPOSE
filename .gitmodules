@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/PauloCesarCR/corelab-api-challenge
+[submodule "front"]
+	path = front
+	url = https://github.com/PauloCesarCR/corelab-web-challenge
